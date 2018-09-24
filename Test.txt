@@ -2,11 +2,14 @@
 2. Create project 
 3. navigate to the server 
 4. git clone https://
+-----------Staging---------------------------
 5.git add 
 6.git status
+-----------Commiting to local system for database versioning------------------
 7.git commit -m 
 8. git status 
 9.git log 
+-----------Commiting to cloud/remote server------------------
 10. git push
 11. git log 
 12. git revert commit id 
