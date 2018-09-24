@@ -22,5 +22,22 @@
 18. git log 
 ----------------------------Resetting the changes by using Commit id--------------
 19.git reset --hard commit id 
-40. yet to compelete head, rebase and gitignore 
-41. more to come , Just be patience 
+
+---------------------------- Creating, working & deleting branch--------------
+20.git branch branchname
+21.git branch 
+22.git checkput newbranchname
+23.git add 
+24.git commit -m 
+25. git push --->it will all the changes to the new branch 
+26. git checkout master --->to go master 
+27.git add 
+28. git commit 
+29. git push 
+30. git mergre newbranchname master
+31. git push 
+32. git checkout newbranchname
+33.git push
+34.git checkout -b newsecondbranch
+35.git branch -d newsecondbranch
+
