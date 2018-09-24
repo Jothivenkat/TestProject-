@@ -9,6 +9,7 @@
 9.git log 
 10. git push
 11. git log 
+----------------------------Revert the changes by using Commit id--------------
 12. git revert commit id 
 13. git log 
 14. git revert -n commit id 
@@ -16,4 +17,5 @@
 16. git push 
 17. git status 
 18. git log 
+----------------------------Resetting the changes by using Commit id--------------
 19.git reset --hard commit id 
