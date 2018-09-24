@@ -22,3 +22,5 @@
 18. git log 
 ----------------------------Resetting the changes by using Commit id--------------
 19.git reset --hard commit id 
+40. yet to compelete head, rebase and gitignore 
+41. more to come , Just be patience 
