@@ -26,10 +26,10 @@
 ---------------------------- Creating, working & deleting branch--------------
 20.git branch branchname
 21.git branch 
-22.git checkput newbranchname
+22.git checkout newbranchname
 23.git add 
 24.git commit -m 
-25. git push --->it will all the changes to the new branch 
+25. git push --->it will push all the changes to the new branch 
 26. git checkout master --->to go master 
 27.git add 
 28. git commit 
