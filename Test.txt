@@ -40,4 +40,7 @@
 33.git push
 34.git checkout -b newsecondbranch
 35.git branch -d newsecondbranch
+-----------------------------Clone From Branch-------------------------------------
+36.git init(if its new folder)
+37.git clone url -b {branchName}
 
